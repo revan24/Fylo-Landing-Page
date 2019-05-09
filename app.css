@@ -68,6 +68,10 @@ i {
 /* Mobile View */
 
 @media (max-width: 767px) {
+	.img-fluid1 {
+		width: 140px;
+		height: 40px;
+	}
 	.C {
 		width: 380px;
 		height: 180px;
